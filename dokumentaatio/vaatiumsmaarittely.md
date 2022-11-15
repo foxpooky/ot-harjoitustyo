@@ -8,7 +8,7 @@ The software in question is a simple factory automation game, where the player i
 
 The game consists of two main views.
 
-TODO
+![](./kuvat/ui-sketch.jpg)
 
 ## Basic functionality
 
@@ -34,8 +34,11 @@ TODO
 
 Here are some other development ideas that might be implemented if time permits:
 
+- Freely allow movement of viewport on map
 - Save game progress
 - Load levels from files
 - Other factory buildings and resources (cutting, painting etc.)
 - Allow making selections of built areas, copy and paste
+- Allow user to speed game up
+- Allow user to pause game
 - Beautiful UI
